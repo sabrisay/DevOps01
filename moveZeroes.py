@@ -1,6 +1,4 @@
-#New test line is added
-#Second commit change is made
-#File is modified by sebilo
+
 #De here lo mala xwe.
 class Solution(object):
     def moveZeroes(self, nums):
